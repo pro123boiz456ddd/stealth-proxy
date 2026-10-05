@@ -1,0 +1,13 @@
+{
+  "name": "render-web-proxy",
+  "version": "1.0.0",
+  "description": "Custom proxy server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "@tomphttp/bare-server-node": "^2.0.1"
+  }
+}
